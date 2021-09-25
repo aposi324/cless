@@ -1,7 +1,10 @@
+* {
+    image-rendering: pixelated;
+}
+
 .column-container {
     display: flex;
     flex-direction: row;
-    image-rendering: pixelated;
 }
 
 @media (max-width: 600px){
