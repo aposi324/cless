@@ -7,6 +7,32 @@
     flex-direction: row;
 }
 
+.text-red {
+    color: rgb(122, 0, 0);
+    max-width: 10px;
+    width: 10px;
+    min-width: 10px;
+}
+
+.text-green {
+    color: rgb(0, 117, 0);
+    max-width: 10px;
+    width: 10px;
+    min-width: 10px;
+}
+
+.text-yellow {
+    color: rgb(168, 90, 0);
+    max-width: 10px;
+    width: 10px;
+    min-width: 10px;
+}
+
+.text-warning2 {
+    max-width: 10px;
+    width: 10px;
+    min-width: 10px;
+}
 @media (max-width: 600px){
     .column-container {
         flex-direction: column;
